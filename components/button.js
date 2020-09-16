@@ -19,6 +19,9 @@ const StyledButtonTitle = styled.Text`
   color: white;
   font-family: Montserrat-Bold;
   font-size: 22px;
+  font-size: 22px;
+  font-size: 22px;
+  font-size: 22px;
 `;
 export default function Button({title = 'DEVAM ET', onPress, style}) {
   return (
